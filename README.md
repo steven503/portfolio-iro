@@ -1,5 +1,6 @@
-# Portfolio Iro Theme
-## Based on Type Theme
+# The Portfolio website of Steven Filler
+## A Minneapolis-based designer, letterpress printer and aspiring developer
+## Based on Bloc's Portfolio Iro Theme and Type Theme
 
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-iro.png)
 
